@@ -4,11 +4,5 @@
     "iconName": "wave",
     "categories": [
         "Automation"
-    ],
-    "filePatterns": [
-        "package.json$",
-        "^Dockerfile",
-        ".*\\.md$"
-        "*.js"
     ]
 }
